@@ -21,8 +21,8 @@ Currently, at **20 days out**, the Hawks game has only sold **398 tickets**.
 ## 📂 Repository Contents
 * `Single_Game_Ticket_Analysis.ipynb`: Python code used for initial data cleaning, exploratory data analysis (EDA), and calculating the specific projection formulas.
 * `Cavs_Command_Center.twbx`: The packaged Tableau workbook containing the interactive dual-axis forecasting dashboard and pacing curves.
-* `2025 Sports Business & Analytics Night - Hackathon Data Set.csv`: The raw dataset provided for the hackathon.
-* `Hawks_Forecast_Chart_Data.csv`: The generated forecast data used to plot the exact trajectory of the target game.
+* `2025 Sports Business & Analytics Night - Hackathon Data Set.xlsx`: The raw dataset provided for the hackathon.
+* `Hawks_Forecast_Chart_Data.xlsx`: The generated forecast data used to plot the exact trajectory of the target game.
 
 ## 🛠️ Tools Used
 * **Python (Pandas, Matplotlib, Seaborn):** For data aggregation, pacing analysis, and forecast modeling.
